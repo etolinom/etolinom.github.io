@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://etolinom.github.io/sitemap.html.gz
+Sitemap: https://etolinom.github.io/app/sitemap.html.gz
+Sitemap: https://etolinom.github.io/assets/sitemap.html.gz
+Sitemap: https://etolinom.github.io/css/sitemap.html.gz
+Sitemap: https://etolinom.github.io/includes/sitemap.html.gz
+Sitemap: https://etolinom.github.io/item/sitemap.html.gz
+Sitemap: https://etolinom.github.io/src/sitemap.html.gz
